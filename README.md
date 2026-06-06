@@ -22,4 +22,6 @@ Selecione a opção 1 para ativação na próxima tela
 
 Espere um pouco para concluir o processo e pronto!
 
+CREDTIOS
 
+https://www.reddit.com/r/downr/comments/1kzn5lf/how_to_activate_microsoft_office_for_free_legally/?solution=c6c79aec4080a0aec6c79aec4080a0ae&js_challenge=1&token=7afd7253fec22262ff1c52b1703fe9ec7c504a4a8692e2aed57ceb51647340d8&jsc_orig_r=
