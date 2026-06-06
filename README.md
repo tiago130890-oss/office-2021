@@ -9,6 +9,7 @@ Execute um dos comandos abaixo:
   irm https://get.activated.win | iex
 
   irm https://massgrave.dev/get | iex
+
 Pode pedir permissão de administrador para executar o comando, conceda.
 
 Selecione a opção 1 ou 2 de acordo com sua necessidade.
