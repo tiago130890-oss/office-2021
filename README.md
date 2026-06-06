@@ -1,4 +1,4 @@
-# office-2021
+# office-2021 ativação pelo power shell
 
 Como ativar o Microsoft Office de graça, legalmente e sem usar conteúdo pirateado?
 Abra o PowerShell no seu Windows. Para fazer isso, pressione a tecla Windows + X e selecione PowerShell ou Terminal.
